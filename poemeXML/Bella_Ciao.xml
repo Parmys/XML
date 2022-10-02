@@ -1,0 +1,69 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<poemes>
+<langue>italien</langue>
+<titre>Bella ciao</titre>
+
+
+			<poeme>	
+				<strophes>
+				
+						<strophe>
+														
+								    <vers>Una mattina mi sono svegliato,</vers>
+									 <vers>O bella ciao, bella ciao,</vers>
+									 <vers>Una mattina mi sono svegliato,</vers>
+									 <vers>E ho trovato l'invasor.</vers>
+					
+						</strophe>
+						
+						<strophe>
+						
+									<vers>O partigiano portami via,</vers>
+									<vers>O bella ciao, bella ciao,</vers>
+									<vers>Bella ciao, ciao, ciao,</vers>
+									<vers>O partigiano portami via,</vers>
+									<vers>Che mi sento di morir.</vers>
+																					
+						</strophe>
+						<strophe>
+									<vers>E so io muoio da partigiano,</vers>
+									<vers>O bella ciao, bella ciao,</vers>
+									<vers>Bella ciao, ciao, ciao,</vers>
+									<vers>E so io muoio da partigiano,</vers>
+									<vers>Tu mi devi seppellir.</vers>
+													
+						</strophe>
+						
+						<strophe>
+						
+									
+									<vers>Mi seppellisci lassù in montagna</vers>
+									<vers>O bella ciao, bella ciao,</vers>
+									<vers>Bella ciao, ciao, ciao,</vers>
+									<vers>Mi seppelisci lassù in montagna</vers>
+									<vers>Sotto l'ombra di un bel fior.</vers>
+																													
+						</strophe>
+						<strophe>
+						
+									<vers>Tutte le genti che passeranno</vers>
+									<vers>O bella ciao, bella ciao,</vers>
+									<vers>Bella ciao, ciao, ciao,</vers>
+									<vers>Tutte le genti che passeranno</vers>
+									<vers>Mi diranno «che bel fior!».</vers>
+																							
+						</strophe>
+						<strophe>
+						
+  								   <vers>E questo è il fiore del partigiano</vers>
+									<vers>O bella ciao, bella ciao,</vers>
+									<vers>Bella ciao, ciao, ciao,</vers>
+									<vers>E questo è il fiore del partigiano</vers>
+									<vers>Morto per la Liberta.</vers>
+																							
+						</strophe>
+						
+				</strophes>
+		</poeme>			
+
+</poemes>

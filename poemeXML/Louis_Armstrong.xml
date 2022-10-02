@@ -1,0 +1,48 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<poemes>
+<langue>Anglais</langue>
+<auteur>Louis Armstrong</auteur>
+<titre>WHAT A WONDERFUL WORLD</titre>
+<info_supplementaire> (George Weiss / Bob Thiele)</info_supplementaire>
+
+			<poeme>	
+				<strophes>
+				
+						<strophe>
+						
+									
+									 <vers>I see trees of green, red roses too</vers>
+									 <vers>I see them bloom for me and you</vers>
+									 <vers>And I think to myself, what a wonderful world</vers>
+																			
+						</strophe>
+						<strophe>
+						
+									
+									<vers>I see skies of blue and clouds of white</vers>
+									<vers>The bright blessed day, the dark sacred night</vers>
+									<vers>And I think to myself, what a wonderful world</vers>
+																					
+						</strophe>
+						<strophe>
+						
+									
+									<vers>The colours of the rainbow, so pretty in the sky</vers>
+									<vers>Are also on the faces of people going by</vers>
+									<vers>I see friends shakin' hands, sayin' "How do you do?"</vers>
+									<vers>They're really saying "I love you"</vers>
+													
+						</strophe>
+						<strophe>
+						
+									
+									<vers>I hear babies cryin', I watch them grow</vers>
+									<vers>They'll learn much more than I'll ever know</vers>
+									<vers>And I think to myself, what a wonderful world</vers>
+									<vers>Yes, I think to myself, what a wonderful world</vers>
+																							
+						</strophe>
+						<son>Oh yeah</son>
+				</strophes>
+		</poeme>			
+</poemes>
